@@ -1,3 +1,3 @@
-## Удаление данных пользователя
+## Deleting user data
 
-Ваши данные удалены.
+Your data has been deleted.
